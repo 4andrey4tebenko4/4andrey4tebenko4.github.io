@@ -1,0 +1,52 @@
+.learnMore {
+  margin-right: 100px;
+  margin-bottom: 200px;
+}
+
+.flexItems {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.newTrip {
+  margin-right: 100px;
+}
+
+.newWayTheWorld {
+  font-family: "Playfair Display", sans-serif;
+  font-weight: 700;
+  font-size: 36px;
+  color: #000000;
+  width: 481px;
+}
+
+.descriptionOfTrip {
+  padding: 20px 0px 35px 0px;
+  font-family: "Mulish", sans-serif;
+  font-size: 17px;
+  color: #7d7987;
+  max-width: 440px;
+}
+
+.learnButton {
+  font-weight: 600;
+  font-size: 16px;
+  width: 120px;
+  height: 70px;
+  padding: 12px 35px;
+  text-align: center;
+  border: 1px solid #fb8f1d;
+  background-color: #fb8f1d;
+  border-radius: 7px;
+  color: #fff;
+  text-decoration: none;
+}
+
+.elementZero {
+  padding-left: 650px;
+}
+
+.elementFirst {
+  padding: 0px 0px 40px 160px;
+}

@@ -1,0 +1,73 @@
+.footer {
+  background-color: #f9f9fb;
+}
+
+.footerBlock {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logoFooter {
+  padding: 40px 0px 25px 0px;
+}
+
+.dateFooter {
+  font-family: Mulish;
+  font-weight: 300;
+  font-size: 17px;
+  color: #848484;
+}
+
+.PlanOfTrip {
+  width: 300px;
+  font-family: "Mulish", sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+  color: #848484;
+}
+
+.headingFooter {
+  font-family: "Mulish", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 19px;
+  color: #000000;
+}
+
+.linkFooter {
+  text-decoration: none;
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  color: #848484;
+}
+
+.blockSecond {
+  padding-top: 35px;
+}
+
+.blockThird {
+  padding-top: 35px;
+}
+
+.blockFourht {
+  padding-top: 35px;
+}
+
+.lineFooter {
+  width: 1100px;
+  margin: 0 auto;
+  height: 1px;
+  background: #c4c4c4;
+}
+
+.socialNetwork {
+  padding: 15px 0px 25px 0px;
+  text-align: center;
+}
+
+.mediaPadding {
+  padding-left: 20px;
+}

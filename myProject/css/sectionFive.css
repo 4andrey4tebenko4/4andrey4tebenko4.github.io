@@ -1,0 +1,51 @@
+.testimonials {
+  margin-bottom: 200px;
+}
+
+.testimonialsHeading {
+  font-family: "Playfair Display", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  color: #000000;
+}
+
+.wrapperTestimonials {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.starOne,
+.starTwo,
+.starThree,
+.starFour {
+  margin-right: 10px;
+}
+
+.descriptionTestimonials {
+  font-family: "Mulish", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  color: #000000;
+  margin: 40px 0px;
+  max-width: 440px;
+}
+
+.namePerson {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  color: #000000;
+}
+
+.founder {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: rgba(0, 0, 0, 0.85);
+}
+
+.manOne {
+  border-radius: 20px;
+}

@@ -1,0 +1,55 @@
+.guides {
+  margin-bottom: 250px;
+}
+
+.guidesApp {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.circleGuide {
+  margin-bottom: 40px;
+  padding-left: 45px;
+}
+
+.guidesParagraph {
+  max-width: 400px;
+  font-family: "Playfair Display", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  color: #000000;
+  margin-bottom: 20px;
+}
+
+.guidesDescription {
+  max-width: 450px;
+  font-family: "Mulish", sans-serif;
+  font-weight: 300;
+  font-size: 17px;
+  color: #7d7987;
+  margin-bottom: 40px;
+}
+
+.guideBtn {
+  font-weight: 600;
+  font-size: 16px;
+  width: 120px;
+  height: 70px;
+  padding: 12px 35px;
+  text-align: center;
+  border: 1px solid #fb8f1d;
+  background-color: #fb8f1d;
+  border-radius: 7px;
+  color: #fff;
+  text-decoration: none;
+}
+
+.squareGuide {
+  padding-left: 260px;
+}
+
+.guideAppSquare {
+  padding-bottom: 450px;
+}

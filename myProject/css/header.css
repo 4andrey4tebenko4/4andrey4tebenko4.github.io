@@ -1,0 +1,65 @@
+.container {
+  width: 90%;
+  max-width: 1170px;
+  margin: 0 auto;
+}
+
+.headerElements {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 35px;
+}
+
+.headerElements a {
+  text-decoration: none;
+}
+
+.topNavigation a {
+  margin-left: 25px;
+}
+
+.topNavigation a:last-child {
+  margin-left: 10px;
+}
+
+.home {
+  color: #202336;
+  font-weight: 700;
+}
+
+.destinations,
+.about,
+.partner {
+  color: #b8becd;
+  font-weight: 400;
+}
+
+.login {
+  width: 140px;
+  height: 70px;
+  padding: 8px 32px;
+  text-align: center;
+  border: 1px solid #fb8f1d;
+  border-radius: 7px;
+  color: #fb8f1d;
+}
+
+.login:hover {
+  background-color: #f7b66a;
+  color: #fff;
+  border: 1px solid #f7b66a;
+  border-radius: 6px;
+}
+
+.register {
+  width: 250px;
+  height: 70px;
+  padding: 8px 25px;
+  text-align: center;
+  border: 1px solid #fb8f1d;
+  border-radius: 7px;
+  background-color: #fb8f1d;
+  color: #fff;
+  text-decoration: none;
+}

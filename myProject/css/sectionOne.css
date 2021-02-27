@@ -1,0 +1,85 @@
+.findingATrip {
+  margin-top: 160px;
+  margin-bottom: 200px;
+}
+
+.squareElement {
+  padding-left: 430px;
+}
+
+.circle {
+  margin-left: 70px;
+  transform: translateY(400px);
+}
+
+.circleToo {
+  padding-left: 400px;
+}
+
+.travellingSession {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.exploreAndTravel {
+  font-family: "Playfair Display", sans-serif;
+  color: #202336;
+  font-size: 64px;
+  line-height: 80px;
+  margin-bottom: 70px;
+}
+
+.holidayFinder {
+  font-weight: 600;
+  font-size: 22px;
+  color: #202336;
+  margin-bottom: 21px;
+}
+
+.line {
+  width: 40px;
+  height: 10px;
+  color: #202336;
+  border-radius: 4px;
+  margin-bottom: 40px;
+}
+
+.popupWindows {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: start;
+  width: 360px;
+  margin-bottom: 46px;
+}
+
+.dropdown {
+  padding: 0px 30px 20px 0px;
+}
+
+.myStyle {
+  width: 150px;
+  color: #4a4c53;
+  border: 0.8px solid #afb0b9;
+  border-radius: 6px;
+  background-color: #fff;
+  text-align: left;
+}
+
+.exploreButton {
+  font-family: "Mulish", sans-serif;
+  font-weight: bold;
+  width: 140px;
+  height: 70px;
+  padding: 12px 50px;
+  text-align: center;
+  border: 1px solid #fb8f1d;
+  background-color: #fb8f1d;
+  border-radius: 7px;
+  color: #fff;
+  text-decoration: none;
+}
+
+.exploreButton:hover {
+  color: #fff;
+}

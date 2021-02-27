@@ -1,0 +1,75 @@
+.stories {
+  margin-bottom: 170px;
+}
+
+.squareStories {
+  margin-left: 400px;
+}
+
+.cardsStories {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 35px 0px;
+}
+
+.headingStories {
+  margin-top: 40px;
+  font-family: "Playfair Display", sans-serif;
+  font-weight: bold;
+  font-size: 36px;
+  color: #000000;
+}
+
+.photoOfStories {
+  border-radius: 5px;
+}
+
+.headingStory {
+  padding: 12px 0px 12px 0px;
+  width: 240px;
+  text-align: left;
+  font-weight: bold;
+  font-size: 19px;
+  color: #000000;
+}
+
+.headingSecondStory {
+  width: 250px;
+}
+
+.headingThirdStory {
+  width: 260px;
+}
+
+.headingFourthStory {
+  width: 255px;
+}
+
+.paragraphStory {
+  width: 250px;
+  text-align: left;
+  font-weight: normal;
+  font-size: 15px;
+  color: #7d7987;
+}
+
+.readMore {
+  font-weight: 600;
+  font-size: 15px;
+  text-align: left;
+  text-decoration: none;
+  color: #fb8f1d;
+}
+
+.slick-dots li button:before {
+  font-size: 10px;
+  color: orange;
+  text-align: center;
+  padding: 45px 0px 30px 0px;
+}
+
+.circleStory {
+  margin-left: 740px;
+  margin-top: 60px;
+}
